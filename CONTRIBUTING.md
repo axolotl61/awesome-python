@@ -1,6 +1,8 @@
 # Contributing
 
 Your contributions are always welcome!
+"Bitte E-Mail an lieblings_kollege@firma.com"
+
 
 ## Guideline
 
